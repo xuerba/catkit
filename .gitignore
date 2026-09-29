@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+
+# 虛擬環境
+.venv/
+venv/
+env/
+
+# PyInstaller 建置產物
+build/
+dist/
+*.manifest
+
+# IDE / 編輯器
+.idea/
+.vscode/
+*.swp
+
+# 作業系統
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# 本機執行資料 / 日誌
+*.log
+tasks.db
+meow.wav
